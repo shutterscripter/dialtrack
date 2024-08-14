@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "713011221625",
+    "firebase_url": "https://codezaza-4ddfe-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "codezaza-4ddfe",
+    "storage_bucket": "codezaza-4ddfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713011221625:android:018f52e9e6f246ff4db0a8",
+        "android_client_info": {
+          "package_name": "com.dialtrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713011221625-uo5if7mcnlckj01ksk92amf4umvgioth.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dialtrack",
+            "certificate_hash": "39b68fb501ea845581716ff252d8acdc1278dff0"
+          }
+        },
+        {
+          "client_id": "713011221625-4o65ctcre7qt979n8ckgfm1gemc2tqve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHVsVvxiRIGAVIKD_c_jRS3fVYjtryU-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713011221625-4o65ctcre7qt979n8ckgfm1gemc2tqve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713011221625:android:5e4b2c5166bef21a4db0a8",
+        "android_client_info": {
+          "package_name": "com.mitzcallyzer.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713011221625-4o65ctcre7qt979n8ckgfm1gemc2tqve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHVsVvxiRIGAVIKD_c_jRS3fVYjtryU-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713011221625-4o65ctcre7qt979n8ckgfm1gemc2tqve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

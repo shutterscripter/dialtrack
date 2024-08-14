@@ -1,0 +1,75 @@
+name: mithilesh_s_application1
+description: A new Flutter project.
+version: 1.5.0+11
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  cached_network_image: ^3.2.1
+  get: ^4.6.6
+  scrollable_positioned_list: ^0.3.8
+  clipboard: ^0.1.3
+  intl_phone_field: ^3.2.0
+  open_settings: ^2.0.2
+  app_settings: ^5.1.1
+  record: ^5.0.4
+  path_provider: ^2.1.1
+  phone_state_background: ^0.0.4
+  flutter_svg: ^1.1.6
+  intl:
+  firebase_core:
+  permission_handler: ^10.2.0
+  device_info_plus: ^9.1.1
+  call_log:
+  firebase_auth:
+  charts_flutter:
+  fast_contacts:
+  url_launcher:
+  flutter_dialpad:
+  flutter_phone_direct_caller: ^2.1.1
+  android_alarm_manager_plus: ^3.0.4
+  direct_caller_sim_choice: ^1.0.5
+  syncfusion_flutter_datepicker:
+  sim_card_info: ^1.0.0
+  cloud_firestore:
+  hive:
+  hive_flutter:
+  csv: ^5.1.1
+  file_picker: ^6.1.1 # remove if alternative found
+  open_file: ^3.3.2
+  flutter_expandable_fab: ^2.0.0 #need to remove
+  flutter_speed_dial: ^7.0.0
+  download: ^1.0.0
+  dio: ^5.4.0
+  phone_state: ^1.0.3
+  google_sign_in: ^6.2.1
+  shared_preferences: ^2.2.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: "^0.13.1"
+  hive_generator:
+  build_runner:
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/dialtrack_logo.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/images/
+    - assets/files/test.csv
+  fonts:
+    - family: Segoe UI
+      fonts:
+        - asset: assets/fonts/SegoeUIBold.ttf
+          weight: 700
+        - asset: assets/fonts/SegoeUI.ttf
+          weight: 400
+        - asset: assets/fonts/SegoeUISemibold.ttf
+          weight: 600
